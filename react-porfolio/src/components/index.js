@@ -4,7 +4,7 @@ import Header from "./Header";
 function Main() {
   return (
     <>
-    <Header/>
+ <h1> fjifsjoifhjoi</h1>
     </>
   );
 }
